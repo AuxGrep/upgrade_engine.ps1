@@ -13,8 +13,9 @@ Upgrade_Engine.ps1 is a PowerShell script developed by **AuxGrep** to help admin
 
 **How Does It Work?**
 1. Automatically copies the shared Windows 11 ISO to the user’s PC.
-2. Initiates the upgrade process silently—users won't be asked any questions.
-3. Keeps all user files intact—no data loss or manual intervention required.
+2. Silent Create Mount point, and detect Mounted drive.
+3. Initiates the upgrade process silently—users won't be asked any questions (user will proceeding with his tasks)
+4. Keeps all user files intact—no data loss or manual intervention required.
 
 Once the upgrade is complete, it notifies the user to restart their machine.
 Even after the restart, the script continues managing the process—ensuring a smooth transition.
