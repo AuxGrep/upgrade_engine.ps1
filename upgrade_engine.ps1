@@ -185,7 +185,7 @@ InstallMode=Auto
         -ArgumentList ($setupArgs -join " ") `
         -Wait -PassThru -NoNewWindow
 
-    # Enhanced error handling
+    # error handling
     switch ($setupProcess.ExitCode) {
         0 { 
             Write-Log "Windows 11 upgrade preparation completed successfully."
