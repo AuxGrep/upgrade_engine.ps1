@@ -19,3 +19,7 @@ Upgrade_Engine.ps1 is a PowerShell script developed by **AuxGrep** to help admin
 Once the upgrade is complete, it notifies the user to restart their machine.
 Even after the restart, the script continues managing the process—ensuring a smooth transition.
 **No need for manual input, no complicated steps—just tell your users to sit back, grab a beer, and relax!** 🍻
+
+
+**Email: mranonymoustz@tutanota.com**
+
